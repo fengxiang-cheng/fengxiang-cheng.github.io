@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://fengxiang-cheng.github.io/</loc>
+  <lastmod>2026-02-17T11:27:25+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://fengxiang-cheng.github.io/papers/AAAI%2026%20-%20Empowering%20LLMs%20with%20Symbolic%20Representation%20and%20Reasoning.pdf</loc>
+  <lastmod>2026-02-17T11:27:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fengxiang-cheng.github.io/papers/AAAI%2026%20-%20Fine-Tuning%20Sample%20Order%20Matters%20in%20Propositional%20Logical%20Question-Answering.pdf</loc>
+  <lastmod>2026-02-17T11:27:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fengxiang-cheng.github.io/papers/AAAI%2026%20-%20Adaptive%20Selection%20of%20Symbolic%20Languages%20for%20Improving%20LLM%20Logical%20Reasoning.pdf</loc>
+  <lastmod>2026-02-17T11:27:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fengxiang-cheng.github.io/papers/EMNLP%2025%20-%20Mitigating%20Spurious%20Correlations%20via%20Counterfactual%20Contrastive%20Learning.pdf</loc>
+  <lastmod>2026-02-17T11:27:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fengxiang-cheng.github.io/papers/IJCAI%2025%20-%20Enhancing%20the%20Logical%20Reasoning%20Abilities%20of%20Large%20Language%20Models.pdf</loc>
+  <lastmod>2026-02-17T11:27:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fengxiang-cheng.github.io/papers/AAAI%2025%20-%20Revealing%20the%20Limitations%20of%20Exploiting%20Causal%20Effects%20to%20Resolve%20Linguistic%20Spurious%20Correlations.pdf</loc>
+  <lastmod>2026-02-17T11:27:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fengxiang-cheng.github.io/papers/NeurIPS%2025%20-%20Efficient%20First-Order%20Logic-Based%20Method%20for%20Enhancing%20Logical%20Reasoning%20Capabilities%20of%20LLMs.pdf</loc>
+  <lastmod>2026-02-17T11:27:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fengxiang-cheng.github.io/papers/%E4%B8%80%E7%A7%8D%E5%A2%9E%E5%BC%BA%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E9%80%BB%E8%BE%91%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E7%B3%BB%E7%BB%9F.PDF</loc>
+  <lastmod>2026-02-17T11:27:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
